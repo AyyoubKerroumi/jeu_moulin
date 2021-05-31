@@ -19,6 +19,7 @@ Il comporte deux versions :
 Avec 2 modes dans la version console :
 1.	Mode Joueur contre IA (en utilisant l’algorithme minimax ;
 2.	Mode joueur contre IA (en utilisant l’élagage alphabeta pour optimiser minimax) ;
+
 2-Comment Compiler le projet :
 D’abord il faut ouvrir le projet sous code blocks ;
 Il faut ajouter le chemin suivant dans le linker -lmingw32 -lSDL2main -lSDL2 -mwindows 
