@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1622162381 source:c:\users\pc\desktop\tp-c\moulin\main.c
+	<stdio.h>
+	<stdlib.h>
+	"focntions.h"
+
+1620240449 c:\users\pc\desktop\tp-c\moulin\focntions.h
+
+1622499710 source:c:\users\pc\desktop\tp-c\moulin\fonctions.c
+	"focntions.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<unistd.h>
+	<time.h>
+

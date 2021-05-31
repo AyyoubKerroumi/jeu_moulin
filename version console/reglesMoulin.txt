@@ -1,0 +1,7 @@
+Le jeu se déroule en trois phases :
+
+   1. La pose
+   2. Le mouvement,
+   3.  (optionnelle) Le saut
+
+À tout moment du jeu, celui qui réalise un moulin, c'est-à-dire l'alignement de trois de ses pions, peut capturer un pion adverse quelconque parmi ceux n'appartenant pas à un moulin. 

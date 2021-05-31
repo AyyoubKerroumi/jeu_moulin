@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1622493407 source:c:\users\pc\desktop\moulin_graphique\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonctions.h"
+	<SDL2/SDL.h>
+
+1621157034 c:\users\pc\desktop\moulin_graphique\fonctions.h
+	<SDL2/SDL.h>
+
+1622493359 source:c:\users\pc\desktop\moulin_graphique\fonctions.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	"fonctions.h"
+
