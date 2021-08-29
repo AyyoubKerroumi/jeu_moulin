@@ -3,11 +3,8 @@ Jeu Moulin
  
 Réalisé Par :
 
-Farah Alharrak ;
-
 Ayyoub Kerroumi ;
-
-
+Farah Alharrak ;
 
 
 1-Introduction :
